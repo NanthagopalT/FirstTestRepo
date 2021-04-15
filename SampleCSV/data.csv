@@ -1,5 +1,5 @@
 state,county,fips,nsn,item_name,quantity,ui,acquisition_cost,total_cost,ship_date,federal_supply_category,federal_supply_category_name,federal_supply_class,federal_supply_class_name
-NE,ADAMS,31001.0,1005-00-589-1271,"RIFLE,7.62 MILLIMETER",1.0,Each,138.0,138.0,2008-07-11,10.0,WEAPONS,1005.0,"Guns, through 30 mm"
+NE,AAMS,31001.0,1005-00-589-1271,"RIFLE,7.62 MILLIMETER",1.0,Each,138.0,138.0,2008-07-11,10.0,WEAPONS,1005.0,"Guns, through 30 mm"
 NE,ADAMS,31001.0,1005-00-589-1271,"RIFLE,7.62 MILLIMETER",1.0,Each,138.0,138.0,2008-07-11,10.0,WEAPONS,1005.0,"Guns, through 30 mm"
 NE,ADAMS,31001.0,1005-00-589-1271,"RIFLE,7.62 MILLIMETER",1.0,Each,138.0,138.0,2008-07-11,10.0,WEAPONS,1005.0,"Guns, through 30 mm"
 NE,ADAMS,31001.0,1005-00-589-1271,"RIFLE,7.62 MILLIMETER",1.0,Each,138.0,138.0,2008-07-11,10.0,WEAPONS,1005.0,"Guns, through 30 mm"
